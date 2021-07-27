@@ -13,8 +13,10 @@ Design Document For the Project Rise IN AIR: https://docs.google.com/document/d/
 \
 Build For the Project Rise IN Air: https://drive.google.com/drive/folders/1ROL6U_2j4e7yRndnJ-Re1KDbGpzN7ycz?usp=sharing \
 (same for all team members)\
+
 GamePlay Video explaining details:
 (same for all team members)
+
 \
 Week 1 Submission Project: https://github.com/kushalm01/evaluation-1
 \
