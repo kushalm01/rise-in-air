@@ -25,5 +25,5 @@ Week 1 Submission Project Video: https://drive.google.com/file/d/1fzbKEatJry911S
 
 \
 
-My (Kushal Maheshwari) Contribution to the Game:
+My (Kushal Maheshwari) Contribution to the Game:https://docs.google.com/document/d/1TAFdd0qmKn8lhMdw1tR3iS_MUnul2m1Dxg0o94UXG98/edit?usp=sharing
 
