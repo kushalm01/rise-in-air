@@ -14,8 +14,8 @@ Design Document For the Project Rise IN AIR: https://docs.google.com/document/d/
 Build For the Project Rise IN Air: https://drive.google.com/drive/folders/1ROL6U_2j4e7yRndnJ-Re1KDbGpzN7ycz?usp=sharing \
 (same for all team members)\
 \
-Week 1 Submission Project:  https://github.com/divigarg/evaluation-1 \
+Week 1 Submission Project: https://github.com/kushalm01/evaluation-1
 \
-Week 1 Submission Project Video: https://drive.google.com/file/d/1t_AkJb7c3Ra0IO2s4NdDJkU7n5hMCSDl/view?usp=sharing \
+Week 1 Submission Project Video: https://drive.google.com/file/d/1fzbKEatJry911Sz0O6KhY2msEGLcSdz3/view?usp=sharing
 \
 
